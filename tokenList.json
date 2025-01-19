@@ -15,6 +15,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/props.png"
   },
   {
+    "faAddress": "0x94ed76d3d66cb0b6e7a3ab81acf830e3a50b8ae3cfb9edc0abea635a11185ff4",
     "coinType": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD",
     "decimals": 8,
     "name": "Move Dollar",
@@ -22,6 +23,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/MOD.svg"
   },
   {
+    "faAddress": "0x377adc4848552eb2ea17259be928001923efe12271fef1667e2b784f04a7cf3a",
     "coinType": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
     "decimals": 8,
     "name": "Thala Token",
@@ -29,6 +31,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/THL.svg"
   },
   {
+    "faAddress": "0xa743351ed4889845737082ab9fcd42c21270647e2c6f342c509320e974035ed2",
     "coinType": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
     "decimals": 8,
     "name": "Ditto Staked Aptos",
@@ -36,8 +39,8 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/DittoStakedAptos.svg"
   },
   {
-    "coinType": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
     "faAddress": "0xa259be733b6a759909f92815927fa213904df6540519568692caf0b068fe8e62",
+    "coinType": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
     "decimals": 8,
     "name": "Amnis Aptos Coin",
     "symbol": "amAPT",
@@ -76,6 +79,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/GUI.png"
   },
   {
+    "faAddress": "0xd4c0be6af89a42d78fb728dd57096eda717d7044c2dd635a01417662c33614fc",
     "coinType": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
     "decimals": 2,
     "name": "SHRIMP",
@@ -90,6 +94,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/Apartments.svg"
   },
   {
+    "faAddress": "0xb27b0c6b60772f0fc804ec1cd3339f552badf9bd1e125a7dd700d8eb11248ef1",
     "coinType": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
     "decimals": 8,
     "name": "DooDoo",
@@ -104,6 +109,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/body.png"
   },
   {
+    "faAddress": "0x1fe81b3886ff129d42064f7ee934013de7ef968cb8f47adb5f7210192bcd4a23",
     "coinType": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
     "decimals": 0,
     "name": "Chewy",
@@ -140,6 +146,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ABEL.svg"
   },
   {
+    "faAddress": "0xb81588af2f7d291e8e57f673ec74d4a38f0654633ad6bbeb1cfd4bb0550ae0df",
     "coinType": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
     "decimals": 8,
     "name": "Gari",
@@ -147,6 +154,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/GARI.svg"
   },
   {
+    "faAddress": "0x1912eb1a5f8f0d4c72c1687eb199b7f9d2df34da5931ec96830c557f7abaa0ad",
     "coinType": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
     "decimals": 8,
     "name": "Tortuga Staked Aptos",
@@ -177,6 +185,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/BTC.webp"
   },
   {
+    "faAddress": "0x92410a41654236295001f06375afbb1786dbd14bc1c42a33bfcf50204c248bb7",
     "coinType": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
     "decimals": 8,
     "name": "Wrapped Ether (Wormhole)",
@@ -259,6 +268,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/roologo.jpg"
   },
   {
+    "faAddress": "0xa4607412abfc37ec0b6fd6e102f5f0b7989f59fd44ff5d374cbe360ffbecdfff",
     "coinType": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
     "decimals": 6,
     "name": "APTOS FOMO",
@@ -295,6 +305,7 @@
     "logoUrl": ""
   },
   {
+    "faAddress": "0x4998c15818c297d8dd20308b02979d27ab60ff2ba258911806e15b69fe5f1e4a",
     "coinType": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::chad_coin::ChadCoin",
     "decimals": 8,
     "name": "CHAD",
@@ -302,6 +313,7 @@
     "logoUrl": ""
   },
   {
+    "faAddress": "0xe0b2734815ddced3850a30034e247db7d44b5ea5933bef1cba216475c64b8015",
     "coinType": "0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN",
     "decimals": 8,
     "name": "DDOS Token",
@@ -317,6 +329,7 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ZAAP.PNG"
   },
   {
+    "faAddress": "0x41944cf1d4dac152d692644944e2cc49ee81fafdfb37abd541d06388ec3f7eda",
     "coinType": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
     "decimals": 8,
     "name": "DONK",
