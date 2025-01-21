@@ -369,7 +369,6 @@
   },
   {
     "faAddress": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
-    "coinType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
     "decimals": 6,
     "name": "Tether USD",
     "symbol": "USDt",
