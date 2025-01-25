@@ -195,6 +195,7 @@
         "decimals": 6,
         "name": "USD Coin (Wormhole)",
         "symbol": "USDC",
+        "displaySymbol": "wUSDC",
         "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDC.svg"
     },
     {
@@ -204,6 +205,7 @@
         "decimals": 6,
         "name": "Tether USD (Wormhole)",
         "symbol": "USDT",
+        "displaySymbol": "wUSDT",
         "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDT.svg"
     },
     {
