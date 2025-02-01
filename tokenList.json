@@ -422,5 +422,13 @@
         "name": "Tether USD",
         "symbol": "USDt",
         "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDT.svg"
+    },
+    {
+        "id": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+        "faAddress": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg"
     }
 ]
